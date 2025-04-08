@@ -14,7 +14,6 @@ namespace Hazel
 	
 	void Application::Run()
 	{
-		std::cout << "Hazel Engine" << std::endl;
 		while (true)
 		{
 
